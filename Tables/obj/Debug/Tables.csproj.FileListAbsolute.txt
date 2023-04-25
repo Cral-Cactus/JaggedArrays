@@ -1,0 +1,8 @@
+D:\aaa\testt\JaggedArrays\Tables\bin\Debug\Tables.exe.config
+D:\aaa\testt\JaggedArrays\Tables\bin\Debug\Tables.exe
+D:\aaa\testt\JaggedArrays\Tables\bin\Debug\Tables.pdb
+D:\aaa\testt\JaggedArrays\Tables\obj\Debug\Tables.csproj.AssemblyReference.cache
+D:\aaa\testt\JaggedArrays\Tables\obj\Debug\Tables.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\JaggedArrays\Tables\obj\Debug\Tables.csproj.CoreCompileInputs.cache
+D:\aaa\testt\JaggedArrays\Tables\obj\Debug\Tables.exe
+D:\aaa\testt\JaggedArrays\Tables\obj\Debug\Tables.pdb

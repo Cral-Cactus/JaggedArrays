@@ -1,0 +1,8 @@
+D:\aaa\testt\JaggedArrays\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+D:\aaa\testt\JaggedArrays\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+D:\aaa\testt\JaggedArrays\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+D:\aaa\testt\JaggedArrays\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+D:\aaa\testt\JaggedArrays\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\JaggedArrays\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+D:\aaa\testt\JaggedArrays\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+D:\aaa\testt\JaggedArrays\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb

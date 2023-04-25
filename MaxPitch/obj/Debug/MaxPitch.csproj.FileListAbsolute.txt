@@ -1,0 +1,8 @@
+D:\aaa\testt\JaggedArrays\MaxPitch\bin\Debug\MaxPitch.exe.config
+D:\aaa\testt\JaggedArrays\MaxPitch\bin\Debug\MaxPitch.exe
+D:\aaa\testt\JaggedArrays\MaxPitch\bin\Debug\MaxPitch.pdb
+D:\aaa\testt\JaggedArrays\MaxPitch\obj\Debug\MaxPitch.csproj.AssemblyReference.cache
+D:\aaa\testt\JaggedArrays\MaxPitch\obj\Debug\MaxPitch.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\JaggedArrays\MaxPitch\obj\Debug\MaxPitch.csproj.CoreCompileInputs.cache
+D:\aaa\testt\JaggedArrays\MaxPitch\obj\Debug\MaxPitch.exe
+D:\aaa\testt\JaggedArrays\MaxPitch\obj\Debug\MaxPitch.pdb
